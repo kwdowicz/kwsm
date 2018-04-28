@@ -7,6 +7,7 @@
 /out-tsc
 *.pyc
 __pycache__
+*.swp
 
 # dependencies
 /node_modules
